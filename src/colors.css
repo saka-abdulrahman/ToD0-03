@@ -1,0 +1,47 @@
+:root {
+  /* Light Mode Colors */
+  --background-dark: #2c3e50;
+  --background-light: #ecf0f1;
+  --primary: #3498db;
+  --secondary: #e74c3c;
+  --accent: #f39c12;
+  --text-dark: #2c3e50;
+  --text-light: #ffffff;
+  --box-shadow: 0.5rem 0.5rem 1rem rgba(0, 0, 0, 0.1);
+
+  /* Light Mode Hover Effects */
+  --background-dark-hover: #34495e;
+  --background-light-hover: #bdc3c7;
+  --primary-hover: #2980b9;
+  --secondary-hover: #c0392b;
+  --accent-hover: #e67e22;
+  --text-dark-hover: #34495e;
+  --text-light-hover: #ecf0f1;
+  --box-shadow-hover: 1rem 1rem 2rem rgba(0, 0, 0, 0.2);
+
+  /* Dark Mode Colors */
+  --dark-background-dark: #1a1a1a;
+  --dark-background-light: #4b4b4b;
+  --dark-primary: #2980b9;
+  --dark-secondary: #c0392b;
+  --dark-accent: #e67e22;
+  --dark-text-dark: #ecf0f1;
+  --dark-text-light: #bdc3c7;
+  --dark-btn-bg: #444444;
+  --dark-box-shadow: 0.5rem 0.5rem 1rem rgba(0, 0, 0, 0.5);
+
+  /* Dark Mode Hover Effects */
+  --dark-background-dark-hover: #333;
+  --dark-background-light-hover: #6c6c6c;
+  --dark-primary-hover: #3498db;
+  --dark-secondary-hover: #e74c3c;
+  --dark-accent-hover: #f39c12;
+  --dark-text-dark-hover: #bdc3c7;
+  --dark-text-light-hover: #ecf0f1;
+  --dark-btn-bg-hover: #555555;
+  --dark-box-shadow-hover: 1rem 1rem 2rem rgba(0, 0, 0, 0.3);
+
+  /* Default body background */
+  --body-background: var(--background-light);
+  --body-background-dark: #1a1a1a10;
+}
